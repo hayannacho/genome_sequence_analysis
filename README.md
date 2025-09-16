@@ -2,7 +2,7 @@
 
 This repository contains a collection of Bash scripts for genome sequence analysis.  
 The scripts cover tasks ranging from perfect sequence matching to CRISPR spacer extraction and homolog identification.  
-Developed during bioinformatics coursework, these scripts showcase experience in building automated sequence analysis workflows using **BLAST** and UNIX tools.
+Developed during bioinformatics coursework, these scripts showcase experience in building automated sequence analysis workflows using BLAST and UNIX tools.
 
 ---
 
