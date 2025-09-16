@@ -84,7 +84,9 @@ Developed during bioinformatics coursework, these scripts showcase experience in
 ./homolog_identify.sh protein.faa genome.fna annotations.bed genes.txt
 
 
-🛠 Skills Demonstrated
+---
+
+## 🛠 Skills Demonstrated
 Genomic sequence search with BLAST (blastn, tblastn)
 Automating workflows with Bash scripting
 Processing sequence and annotation files (FASTA, BED)
