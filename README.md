@@ -61,6 +61,6 @@ BLAST uses its default search settings and may miss short or low-complexity matc
 
 The archive locates the homolog, spacer and gene-mapping scripts in **Fall 2024 BIOL 7200**. The public homolog script matched its archived counterpart byte-for-byte; the other two matched apart from trailing whitespace. The ZIP's `class2/ex2/find_perfect_matches.sh` is only an `echo "oops!"` placeholder, so it cannot validate the full published implementation. The published script was retained as the correction baseline rather than replacing it with that placeholder.
 
-The repository demonstrates Bash workflow integration, BLAST filtering, coordinate handling and sequence/annotation processing. The archive and public history establish provenance, not exclusive line-by-line authorship. The underlying BLAST and seqtk algorithms are not claimed as personal implementations.
+Individual coursework — BIOL 7200, Fall 2024. I implemented Bash workflows for sequence filtering, spacer extraction and annotation overlap, using BLAST+ and seqtk.
 
 This edition corrects coordinate conversion, reverse-strand containment, repeat ordering/grouping, quoting, temporary-file isolation and failure handling. These are current maintenance changes, not claimed original coursework deliverables. [Detailed source comparison and changes](docs/PROVENANCE.md).
