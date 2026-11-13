@@ -82,6 +82,7 @@ Developed during bioinformatics coursework, these scripts showcase experience in
 
 # Identify homologs and map to genes
 ./homolog_identify.sh protein.faa genome.fna annotations.bed genes.txt
+```
 
 
 ---
