@@ -1,0 +1,54 @@
+{
+  "archive": "GATECH.zip",
+  "base_commit": "c6ed54f3809678019a6f2f8dc8e48384c7aa4fbf",
+  "files": [
+    {
+      "repository_path": "scripts/extract_spacers.sh",
+      "before_sha256": "bcd96504c27b98f5e6c79e05a298cc1e65564dc976918de119f168ef7d4c00bb",
+      "archive_comparisons": [
+        {
+          "archive_member": "GATECH/Fall2024/biol7200/perfect_hits/extract_spacers.sh",
+          "sha256": "db2ee2f0ae67f3809eb16644e5e1e688848e579a857c5bdc24b415a3235e70d9",
+          "identical": false,
+          "identical_ignoring_trailing_whitespace": true
+        }
+      ]
+    },
+    {
+      "repository_path": "scripts/find_homologs.sh",
+      "before_sha256": "f341ba6b2b10df820a137a84a53e9535c8021a256759b267db772f746f25cbed",
+      "archive_comparisons": [
+        {
+          "archive_member": "GATECH/Fall2024/biol7200/perfect_hits/find_homologs/find_homologs.sh",
+          "sha256": "f341ba6b2b10df820a137a84a53e9535c8021a256759b267db772f746f25cbed",
+          "identical": true,
+          "identical_ignoring_trailing_whitespace": true
+        }
+      ]
+    },
+    {
+      "repository_path": "scripts/find_perfect_matches.sh",
+      "before_sha256": "35d26ad617707bf0f841c4ded695c5ddb917e6fa6196e53038e329fa0fd4e740",
+      "archive_comparisons": [
+        {
+          "archive_member": "GATECH/Fall2024/biol7200/class2/ex2/find_perfect_matches.sh",
+          "sha256": "4fd5c71fe5d5e7aa02cb42b8c44fff7a05273cd8bf4131fe12c1e5d0b4dfc9e0",
+          "identical": false,
+          "identical_ignoring_trailing_whitespace": false
+        }
+      ]
+    },
+    {
+      "repository_path": "scripts/homolog_identify.sh",
+      "before_sha256": "89771f7c38c515e8231af2ac847a0c02260331693493cc65d2fe42afa4981942",
+      "archive_comparisons": [
+        {
+          "archive_member": "GATECH/Fall2024/biol7200/class4/ex4/homolog_identify.sh",
+          "sha256": "27ac3bff5c82d9aa63c9a95ec4eea74724f79bd1425d180deb7a9df9df3d604f",
+          "identical": false,
+          "identical_ignoring_trailing_whitespace": true
+        }
+      ]
+    }
+  ]
+}
